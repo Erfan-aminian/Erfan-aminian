@@ -8,7 +8,7 @@ Hi there! I'm **Erfan Aminian**, a passionate developer with a knack for solving
 - **Web Development**: Django, Python, Bootstrap (always in dark mode! 😎)
 - **Databases**: SQLite, PostgreSQL
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, Celery, RabbitMQ
 
 ---
 
@@ -20,7 +20,7 @@ Hi there! I'm **Erfan Aminian**, a passionate developer with a knack for solving
 
 ## 🎥 Project Demos
 Check out how my projects work in action:  
-[![Project Demo](https://github.com/Erfan-aminian/Erfan-aminian/200.gif)](https://github.com/Erfan-aminian/my-repo)
+[![Project Demo](https://github.com/Erfan-aminian/Erfan-aminian/200.webp)](https://github.com/Erfan-aminian/my-repo)
 
 ---
 
