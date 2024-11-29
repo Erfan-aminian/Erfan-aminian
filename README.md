@@ -20,7 +20,7 @@ Hi there! I'm **Erfan Aminian**, a passionate developer with a knack for solving
 
 ## 🎥 Project Demos
 Check out how my projects work in action:  
-[![Project Demo](https://github.com/Erfan-aminian/Erfan-aminian/200.webp)](https://github.com/Erfan-aminian/my-repo)
+[![Project Demo](https://github.com/Erfan-aminian/Erfan-aminian/200.webp)]
 
 ---
 
