@@ -20,9 +20,8 @@ Hi there! I'm **Erfan Aminian**, a passionate developer with a knack for solving
 
 ## 🎥 Project Demos
 Check out how my projects work in action:  
-[![Demo Animation](Media/200.webp)]
 <div align="center">
-  <img src="Media/200.webp" alt="Demo Animation" width="600">
+  <img src="Media/200.webp" alt="Demo Animation" width="400">
 </div>
 
 ---
