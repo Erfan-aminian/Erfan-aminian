@@ -5,10 +5,10 @@ Hi there! I'm **Erfan Aminian**, a passionate developer with a knack for solving
 ---
 
 ## 🔥 My Skills:
-- **Web Development**: Django, Python, Bootstrap (always in dark mode! 😎)
-- **Databases**: SQLite, PostgreSQL
+- **Web Development**: Django, Python (always in dark mode! 😎)
+- **Databases**: SQLite, MySql
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Tools**: Git, Docker, Celery, RabbitMQ
+- **Tools**: Git, Celery, RabbitMQ
 
 ---
 
